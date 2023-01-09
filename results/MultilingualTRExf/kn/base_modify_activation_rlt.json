@@ -1,0 +1,62 @@
+{
+  "base_kn_bag-P1001": {
+    "own:ori_prob": 0.3021425295818326,
+    "rm_own:ave_delta": 0.0,
+    "rm_own:ave_delta_ratio": 0.0,
+    "eh_own:ave_delta": 0.0,
+    "eh_own:ave_delta_ratio": 0.0,
+    "oth:ori_prob": 0.28473995613347336,
+    "rm_oth:ave_delta": 0.0,
+    "rm_oth:ave_delta_ratio": 0.0,
+    "eh_oth:ave_delta": 0.0,
+    "eh_oth:ave_delta_ratio": 0.0
+  },
+  "base_kn_bag-P108": {
+    "own:ori_prob": 0.20882765815280008,
+    "rm_own:ave_delta": 0.0,
+    "rm_own:ave_delta_ratio": 0.0,
+    "eh_own:ave_delta": 0.0,
+    "eh_own:ave_delta_ratio": 0.0,
+    "oth:ori_prob": 0.29716132730538725,
+    "rm_oth:ave_delta": 0.0,
+    "rm_oth:ave_delta_ratio": 0.0,
+    "eh_oth:ave_delta": 0.0,
+    "eh_oth:ave_delta_ratio": 0.0
+  },
+  "base_kn_bag-P31": {
+    "own:ori_prob": 0.22341084831902297,
+    "rm_own:ave_delta": 0.0,
+    "rm_own:ave_delta_ratio": 0.0,
+    "eh_own:ave_delta": 0.0,
+    "eh_own:ave_delta_ratio": 0.0,
+    "oth:ori_prob": 0.240789110856094,
+    "rm_oth:ave_delta": 0.0,
+    "rm_oth:ave_delta_ratio": 0.0,
+    "eh_oth:ave_delta": 0.0,
+    "eh_oth:ave_delta_ratio": 0.0
+  },
+  "base_kn_bag-P27": {
+    "own:ori_prob": 0.3049034053829041,
+    "rm_own:ave_delta": 0.0,
+    "rm_own:ave_delta_ratio": 0.0,
+    "eh_own:ave_delta": 0.0,
+    "eh_own:ave_delta_ratio": 0.0,
+    "oth:ori_prob": 0.27029313556741064,
+    "rm_oth:ave_delta": 0.0,
+    "rm_oth:ave_delta_ratio": 0.0,
+    "eh_oth:ave_delta": 0.0,
+    "eh_oth:ave_delta_ratio": 0.0
+  },
+  "base_kn_bag-P1303": {
+    "own:ori_prob": 0.2729276565843037,
+    "rm_own:ave_delta": 0.0,
+    "rm_own:ave_delta_ratio": 0.0,
+    "eh_own:ave_delta": 0.0,
+    "eh_own:ave_delta_ratio": 0.0,
+    "oth:ori_prob": 0.26215196141963176,
+    "rm_oth:ave_delta": 0.0,
+    "rm_oth:ave_delta_ratio": 0.0,
+    "eh_oth:ave_delta": 0.0,
+    "eh_oth:ave_delta_ratio": 0.0
+  }
+}

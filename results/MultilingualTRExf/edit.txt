@@ -1,0 +1,21 @@
+{'new_inner_log_ppl': 4.8787401934518515,
+ 'new_inner_ppl': 131.46493912601719,
+ 'new_inter_log_ppl': 4.509884262573521,
+ 'new_inter_ppl': 90.91129606217662,
+ 'ori_changed': 0.0,
+ 'ori_inner_log_ppl': 4.211715228014098,
+ 'ori_inner_ppl': 67.47217077251568,
+ 'ori_inter_log_ppl': 3.797098813689761,
+ 'ori_inter_ppl': 44.571685969301036,
+ 'other_ppl_inc': [],
+ 'success_updated': 0.0,
+ 'success_updated_5': 0.8,
+ 'tgt_new_rank': 471.8,
+ 'tgt_ori_rank': 1767.9,
+ 'tgt_prob_inc': 0.01385306350859592,
+ 'tgt_prob_inc_ratio': 16.315004647510538,
+ 'tgt_rank_inc': 1296.1}
+MR: 1767.9 -> 471.8 (up -1296.1)
+MRR: 0.080207867 -> 0.40092268 (up 0.32071482)
+inner PPL: 67.472171 -> 131.46494 (up 63.992768)
+inter PPL: 44.571686 -> 90.911296 (up 46.33961)
