@@ -4,7 +4,7 @@
 
 # Introduction
 
-This project is forked from https://github.com/%20Hunter-DDM/knowledge-neurons. I modified the project to finish the extensive study of knowledge neurons on multilingual pretrained language model.``
+This project is forked from https://github.com/Hunter-DDM/knowledge-neurons. I modified the project to finish the extensive study of knowledge neurons on multilingual pretrained language model.``
 
 
 
